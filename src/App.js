@@ -15,13 +15,13 @@ class App extends React.Component {
     return (
       <main className="body">
         <Switch>
-          <Route exact path="/" component={ Login } />
-          <Route exact path="/home" component={ Home } />
-          <Route exact path="/search" component={ Search } />
-          <Route exact path="/album/:id" component={ Album } />
-          <Route exact path="/favorites" component={ Favorites } className="root" />
-          <Route exact path="/profile" component={ Profile } />
-          <Route exact path="/profile/edit" component={ EditProfile } />
+          <Route exact path="/project-trybetunes/" component={ Login } />
+          <Route exact path="/project-trybetunes/home" component={ Home } />
+          <Route exact path="/project-trybetunes/search" component={ Search } />
+          <Route exact path="/project-trybetunes/album/:id" component={ Album } />
+          <Route exact path="/project-trybetunes/favorites" component={ Favorites } className="root" />
+          <Route exact path="/project-trybetunes/profile" component={ Profile } />
+          <Route exact path="/project-trybetunes/profile/edit" component={ EditProfile } />
           <Route component={ NotFound } />
         </Switch>
       </main>
