@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-trybetunes/static/css/main.80876b32.css",
+    "main.js": "/project-trybetunes/static/js/main.2ebff3ae.js",
+    "static/media/17004.png": "/project-trybetunes/static/media/17004.1e30c0adc6099143e8c1.png",
+    "static/media/profile-default.jpg": "/project-trybetunes/static/media/profile-default.992166c8262ca5a5b3f7.jpg",
+    "static/media/logo-trybe.svg": "/project-trybetunes/static/media/logo-trybe.3af6974c123e607ab32f1dd08b04c810.svg",
+    "index.html": "/project-trybetunes/index.html",
+    "main.80876b32.css.map": "/project-trybetunes/static/css/main.80876b32.css.map",
+    "main.2ebff3ae.js.map": "/project-trybetunes/static/js/main.2ebff3ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80876b32.css",
+    "static/js/main.2ebff3ae.js"
+  ]
+}
